@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The voting system uses a majority voter based on 2 or more input. And and or gate was used to implement circuit
 
 ## How to test
 
-Explain how to use your project
+aftter simulation LED blinks
 
 ## External hardware
+led ,microcontroller
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
